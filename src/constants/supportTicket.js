@@ -1,0 +1,2 @@
+exports.SUPPORT_TICKET_STATUS_PENDING = 'pending'
+exports.SUPPORT_TICKET_STATUS_RESOLVED = 'resolved'
